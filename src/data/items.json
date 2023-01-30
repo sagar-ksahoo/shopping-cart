@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": "199",
+    "imgUrl": "https://gumlet.assettype.com/swarajya%2F2022-11%2F762e1406-92c7-40ef-bff0-91d92c886e0c%2FFF45E77D_09EB_46D0_B1FB_B8357A4E403B.png?format=auto"
+  },
+  {
+    "id": 2,
+    "name": "Macbook M1 air",
+    "price": "84999",
+    "imgUrl": "https://techcrunch.com/wp-content/uploads/2020/11/2020-11-16-074520097.jpg"
+  },
+  {
+    "id": 3,
+    "name": "MuscleBlaze Whey Protein ",
+    "price": "2599",
+    "imgUrl": "https://m.media-amazon.com/images/I/614l1cRgOxL._SL1500_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "JBL Headphone",
+    "price": "1999",
+    "imgUrl": "https://i.gadgets360cdn.com/products/headphones-and-headsets/large/jbl-t450bt-wireless-headphone-832X558-1598367930.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fasttrack Watch",
+    "price": "4999",
+    "imgUrl": "https://m.media-amazon.com/images/I/616TIBt9gQL._UL1500_.jpg"
+  }
+]
